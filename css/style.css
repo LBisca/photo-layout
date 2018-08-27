@@ -41,7 +41,7 @@ html {
     -o-background-size: cover;
     -webkit-background-size: cover;
     background-size: cover;
-    min-height: 780px;
+    min-height: 770px;
 }
 
 .title-box {
@@ -52,14 +52,20 @@ html {
 
 .get-started-button {
     background-color: #16a085;
-    padding: 15px 30px;
+    padding: 15px 50px;
     margin-top: 10px;
-    border-radius: 2px;
+    border-radius: 4px;
     color: white;
     font-weight: 700;
     border: none;
     box-shadow: none;
 }
+
+.bloquinho {
+    padding-top: 80px;
+    padding-right: 150px;
+}
+
 
 .text-light-green {
     color: #16a085;
